@@ -131,6 +131,6 @@ AI算法采用[Deep Reinforcement Learning](https://github.com/nuno-faria/tetris
                 Game.java
 
 ## 关于作者
-既然来都来了，不妨留下一个宝贵的start。虽然作者很菜，但是如果你对项目有什么意见，发现bug或者想要交流技术，随时欢迎联系，或许作者会给你改改bug也说不定。
+如果有帮助到你，不妨留下一个宝贵的start。虽然作者很菜，但是如果你对项目有什么意见，发现bug或者想要交流技术，随时欢迎联系，或许作者会给你改改bug也说不定。
 
 * 邮箱 837706620@qq.com
